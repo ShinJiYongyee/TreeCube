@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8074ffc40ff712468a3fc176d801e7a
+timeCreated: 1470552376
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Eve/Materials/Eve.mat
+  uploadId: 278964

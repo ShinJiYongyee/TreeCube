@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38384937af761954095810f89e1c4692
+timeCreated: 1470552370
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Envy/Materials/Envy.mat
+  uploadId: 278964

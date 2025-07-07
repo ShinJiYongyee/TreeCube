@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2dab0d79f9fec842823d88518d2dddc
+timeCreated: 1470716328
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Doggy/Materials/BabyDog.mat
+  uploadId: 278964

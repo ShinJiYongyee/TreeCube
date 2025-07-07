@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2795ae22b8e2543d69cbb64390f5f73c
+timeCreated: 1484537345
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Anim/StripeButtonAnim.anim
+  uploadId: 278964

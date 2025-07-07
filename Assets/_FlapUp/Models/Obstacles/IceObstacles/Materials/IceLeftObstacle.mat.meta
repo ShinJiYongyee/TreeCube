@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b9e86812c784e848b8d12c40a9c51c4
+timeCreated: 1470740292
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Obstacles/IceObstacles/Materials/IceLeftObstacle.mat
+  uploadId: 278964

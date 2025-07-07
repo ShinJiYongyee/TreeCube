@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b027d7beb3e5ae4795c7d5ce70deb85
+timeCreated: 1470552382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Buck/Materials/Buck.mat
+  uploadId: 278964

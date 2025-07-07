@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37e108cab9d32964cbab79c59d77263f
+timeCreated: 1470886838
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/IceParticle/Materials/Ice.mat
+  uploadId: 278964

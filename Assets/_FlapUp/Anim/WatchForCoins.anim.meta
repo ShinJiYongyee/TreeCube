@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0cd9c64cdfd449969dc594a21cc86fb
+timeCreated: 1468308232
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Anim/WatchForCoins.anim
+  uploadId: 278964

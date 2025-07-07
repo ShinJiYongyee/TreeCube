@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8879e42fe8f2bc45be3e42964871a0d
+timeCreated: 1470552359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Jim/Materials/Jim.mat
+  uploadId: 278964

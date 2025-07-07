@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e745afccd163dcd44b39c936123d7866
+timeCreated: 1470552360
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Aron/Materials/Aron.mat
+  uploadId: 278964

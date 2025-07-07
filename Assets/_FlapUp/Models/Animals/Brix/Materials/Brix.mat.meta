@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9d49bb6f7d279847a2a6373747ecd9d
+timeCreated: 1470552372
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Brix/Materials/Brix.mat
+  uploadId: 278964

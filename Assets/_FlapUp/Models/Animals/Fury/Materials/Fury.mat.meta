@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cca220464b72ee4d9232c4bd879758a
+timeCreated: 1470552357
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Fury/Materials/Fury.mat
+  uploadId: 278964

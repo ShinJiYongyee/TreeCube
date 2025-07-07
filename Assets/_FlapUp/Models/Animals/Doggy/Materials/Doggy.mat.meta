@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff8a9321b10c8e048a978f861475e1b1
+timeCreated: 1470554591
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Doggy/Materials/Doggy.mat
+  uploadId: 278964

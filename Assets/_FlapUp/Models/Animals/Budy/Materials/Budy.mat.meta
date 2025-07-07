@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07f95e23c223a8a448da3369e7028c29
+timeCreated: 1470552373
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Budy/Materials/Budy.mat
+  uploadId: 278964

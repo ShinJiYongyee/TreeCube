@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 262f49a14389add43991c72ea49bdd9c
+timeCreated: 1470728207
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Materials/Gold.mat
+  uploadId: 278964

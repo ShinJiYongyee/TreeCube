@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25611e0541805464f8299aae4e33612d
+timeCreated: 1470740843
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Obstacles/NormalObstacles/Materials/NormalLeftObstacle.mat
+  uploadId: 278964

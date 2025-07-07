@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21540b9784ca3064e9ae45a2e94d9c88
+timeCreated: 1470552355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Koala/Materials/Koala.mat
+  uploadId: 278964

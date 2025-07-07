@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f581575c2dc697042bb2697928284eb5
+timeCreated: 1470552389
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Garas/Materials/Garas.mat
+  uploadId: 278964

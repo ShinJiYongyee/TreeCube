@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21cf90e98337fa840a6657b8d7f2c350
+timeCreated: 1470558203
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Prefabs/Game/Characters/Animals/Chicky.prefab
+  uploadId: 278964

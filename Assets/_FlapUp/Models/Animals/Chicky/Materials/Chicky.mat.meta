@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 119d5d5e56e50a34c98cc42c27a2af66
+timeCreated: 1470552368
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Chicky/Materials/Chicky.mat
+  uploadId: 278964

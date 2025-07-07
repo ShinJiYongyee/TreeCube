@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de3262c0d313ab24fb7c9b0e48f68846
+timeCreated: 1470739388
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Obstacles/FireObstacles/Materials/FireRightObstacle.mat
+  uploadId: 278964

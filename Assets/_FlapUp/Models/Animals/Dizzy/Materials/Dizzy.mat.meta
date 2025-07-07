@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4aa7e04913e1d1649b7523a77f1eecfd
+timeCreated: 1470552375
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Dizzy/Materials/Dizzy.mat
+  uploadId: 278964

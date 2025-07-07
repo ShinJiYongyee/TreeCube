@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbe2218e8ef598f42abcf0786bc3d071
+timeCreated: 1470736981
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Obstacles/ElectricObstacles/Materials/ElectricRightObstacle.mat
+  uploadId: 278964

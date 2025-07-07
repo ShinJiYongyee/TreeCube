@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f56ade0a72df414e8cf7765e9b64bfc
+timeCreated: 1470907595
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Materials/Flagment_02.mat
+  uploadId: 278964

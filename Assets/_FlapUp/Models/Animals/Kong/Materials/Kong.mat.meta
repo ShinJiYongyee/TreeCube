@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62ac3cd8d275e024a82c6734caf34729
+timeCreated: 1470552377
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/Kong/Materials/Kong.mat
+  uploadId: 278964

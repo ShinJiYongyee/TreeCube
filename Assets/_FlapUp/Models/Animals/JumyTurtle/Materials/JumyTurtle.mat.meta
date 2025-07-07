@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81e29b13540ce4643ab87ad0804ae43a
+timeCreated: 1470552355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Models/Animals/JumyTurtle/Materials/JumyTurtle.mat
+  uploadId: 278964

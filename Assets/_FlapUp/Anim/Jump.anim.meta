@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2186ada5917f5504c92217b03c15089b
+timeCreated: 1470302816
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Anim/Jump.anim
+  uploadId: 278964

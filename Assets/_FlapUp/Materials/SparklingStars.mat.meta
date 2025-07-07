@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4887f97a2d3ab6e4a930cdc5ef34eb24
+timeCreated: 1467951274
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74556
+  packageName: Flap Up!
+  packageVersion: 2.4
+  assetPath: Assets/_FlapUp/Materials/SparklingStars.mat
+  uploadId: 278964
