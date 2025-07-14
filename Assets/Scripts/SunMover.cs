@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class SunMover : MonoBehaviour
 {
-    float sunRotationSpeed = 144f;  // 자전 속도
-    float sunOrbitSpeed = 15f;      // 공전 속도
+    float sunRotationSpeed = 72f;  // 자전 속도
+    float sunOrbitSpeed = 7.5f;      // 공전 속도
 
     void Update()
     {
