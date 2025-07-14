@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class DayNightCycle : MonoBehaviour
 {
-    float sunRotationSpeed = 288f;
-    float sunOrbitSpeed = 30f;
+    float sunRotationSpeed = 144f;  // 자전 속도
+    float sunOrbitSpeed = 15f;      // 공전 속도
 
     void Update()
     {
